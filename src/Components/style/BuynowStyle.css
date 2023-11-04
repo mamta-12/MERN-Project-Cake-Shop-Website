@@ -1,0 +1,21 @@
+
+
+.btn {
+    background-color: rgb(49, 40, 178);
+    color: white;
+    margin-bottom: 20px;
+    text-align: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    border-inline: 20px;
+
+   
+}
+.background{
+    
+    height: 500px;
+    text-align: center;
+    flex-wrap: wrap;
+
+}
+
